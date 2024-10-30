@@ -1,0 +1,39 @@
+﻿  player.cpp
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(5,12): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(6,15): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(15,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(15,29): warning C4244:         with
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(15,29): warning C4244:         [
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(15,29): warning C4244:             T=float
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(15,29): warning C4244:         ]
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(16,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(16,30): warning C4244:         with
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(16,30): warning C4244:         [
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(16,30): warning C4244:             T=float
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(16,30): warning C4244:         ]
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(25,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(26,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\player.cpp(107,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  zombie_arena.cpp
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(15,51): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(15,51): warning C4244:         with
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(15,51): warning C4244:         [
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(15,51): warning C4244:             T=float
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(15,51): warning C4244:         ]
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(16,51): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(16,51): warning C4244:         with
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(16,51): warning C4244:         [
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(16,51): warning C4244:             T=float
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(16,51): warning C4244:         ]
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,47): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,47): warning C4244:         with
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,47): warning C4244:         [
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,47): warning C4244:             T=float
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,47): warning C4244:         ]
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,33): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,33): warning C4244:         with
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,33): warning C4244:         [
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,33): warning C4244:             T=float
+C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\ZombieMassacre\zombie_arena.cpp(18,33): warning C4244:         ]
+  Generating Code...
+  ZombieMassacre.vcxproj -> C:\Users\a0012963\Documents\ZombieMassacrePractice\ZombieMassacrePractice\Debug\ZombieMassacre.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46CFCC9F-5333-4CEB-A3FD-1344916A15A4}|ZombieMassacre\\ZombieMassacre.vcxproj|C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46CFCC9F-5333-4CEB-A3FD-1344916A15A4}|ZombieMassacre\\ZombieMassacre.vcxproj|solutionrelative:ZombieMassacre\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CFCC9F-5333-4CEB-A3FD-1344916A15A4}|ZombieMassacre\\ZombieMassacre.vcxproj|C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46CFCC9F-5333-4CEB-A3FD-1344916A15A4}|ZombieMassacre\\ZombieMassacre.vcxproj|solutionrelative:ZombieMassacre\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CFCC9F-5333-4CEB-A3FD-1344916A15A4}|ZombieMassacre\\ZombieMassacre.vcxproj|C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46CFCC9F-5333-4CEB-A3FD-1344916A15A4}|ZombieMassacre\\ZombieMassacre.vcxproj|solutionrelative:ZombieMassacre\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\player.cpp",
+              "RelativeDocumentMoniker": "ZombieMassacre\\player.cpp",
+              "ToolTip": "C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\player.cpp",
+              "RelativeToolTip": "ZombieMassacre\\player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T11:48:20.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\player.h",
+              "RelativeDocumentMoniker": "ZombieMassacre\\player.h",
+              "ToolTip": "C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\player.h",
+              "RelativeToolTip": "ZombieMassacre\\player.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T11:47:46.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\main.cpp",
+              "RelativeDocumentMoniker": "ZombieMassacre\\main.cpp",
+              "ToolTip": "C:\\Users\\Alphonse\\Documents\\Computing Lv.8 (HND Games)\\GORDON (Scripting)\\ZombieMassacrePractice\\ZombieMassacre\\main.cpp",
+              "RelativeToolTip": "ZombieMassacre\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T02:43:48.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
